@@ -1,1 +1,1 @@
-console.log("this is for the yolo badges");
+const parit = "pair";
